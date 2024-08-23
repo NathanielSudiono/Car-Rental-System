@@ -1,0 +1,4 @@
+A02:BMW:Available:1000:
+A03:Proton:Available:800
+A04:Toyota:Available:1500:
+A05:Perodua:Available:700:
